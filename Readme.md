@@ -46,7 +46,6 @@ Please feel free to use these materials for your education or exams.
 -   [Penetration Testing Execution Standard](http://www.pentest-standard.org/)
 -   [Fortify](https://www.microfocus.com/en-us/solutions/application-security)
 -   [Volatility](https://www.volatilityfoundation.org/)
--   [PENTESTMONKEY](http://pentestmonkey.net/)
 -   [AICPA - American Institute of CPAs (Certified Public Accountants)](https://www.aicpa.org/)
 -   [Security Intelligence](https://securityintelligence.com/)
 -   [Oak Ridge National Laboratory (Summit Super Computer)](https://www.olcf.ornl.gov/olcf-resources/compute-systems/summit/)
